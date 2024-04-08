@@ -2,7 +2,7 @@
 
 **[Visit the website ](https://markdown-map.com/)**
 
-![](https://markdown-map.com/src/assets/images/computer_guy_markdown_to_mindmap.gif)
+![](https://markdown-map.com/src/assets/images/markdown-map-convert-markdown-to-mindmap.png)
 
 The ultimate tool for effortlessly transform your markdown into beautiful and modern mind maps.
 
