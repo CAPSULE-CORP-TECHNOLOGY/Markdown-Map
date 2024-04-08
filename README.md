@@ -21,4 +21,4 @@ One of Markdown Map's key features is its ease of sharing. Users can effortlessl
 
 ## Contact
 
-We look forward to receiving your constructive feedback. Please contact us via email
+We look forward to receiving your constructive feedback. Please contact us via email (contact[at]markdown-map.com)
